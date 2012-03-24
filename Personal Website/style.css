@@ -1,0 +1,120 @@
+﻿body {  
+}
+
+
+#content
+{
+    float: left;
+    position:relative;
+    margin-left: 300px;
+    margin-top: -190px;
+    height: 650px;
+    margin-right: 180px;
+    background-color: #E0FFFF;
+    width: 700px;
+    top: -200px;
+    left: 0px;
+}
+
+#content h2
+{
+    text-align: left;
+    font-family: Papyrus;
+    font-size: 30px;
+    margin-bottom: 1px; 
+    margin-top: 1px; 
+    color: #00008B;
+}
+
+#content p
+{
+    font-family: Papyrus;
+    color: #050505;
+    font-size: 16px;
+}
+
+#content hr
+{
+    border-width: 0;
+    background-color: #000000;
+    height: 2px;
+    margin-top: 0px;
+}
+
+#content img
+{
+    background-color: #E0FFFF;
+}
+
+#content a
+{
+    color: #050505;
+    text-decoration: none;
+}
+
+
+#content a:hover
+{
+    color:#D1D1D1;
+}
+    
+
+#header
+{
+    text-align: left;
+    color: #F0F8FF;
+    font-size: 45px;
+    position:inherit;
+}
+
+#header p
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    text-align:right;
+    font-size:25px;
+    margin-bottom: 3px;
+    margin-top:-14px;
+}
+
+#header hr
+{
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    background:url('bnw.gif');
+    width: 100%;
+    height:7px;
+    margin-top: 0px;
+}
+
+#menu
+{
+    float: left;
+    height: 408px; 
+    width: 189px; 
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+#menu ul
+{
+    list-style-type:none;
+}
+
+
+#menu li a
+{
+    font-style: italic;
+    color:#A9ACB6;
+    text-decoration:none;
+    font-size:22px;
+    display:block;
+    letter-spacing: 3px;
+}
+
+#menu li a:hover
+{
+    color: #F8F8FF;
+}
